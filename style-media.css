@@ -1,0 +1,189 @@
+@media (max-width: 36rem) {
+    
+}
+@media (max-width: 51.688rem) /*827px*/ {
+    .team-holder {
+        height: auto;
+    }
+    .team-member {
+        margin: 1rem;
+    }
+    #referenciak {
+        margin-top: 3rem;
+    }
+    div.counter-holder {
+        padding: 3rem;
+    }
+    div.counter-box {
+        transform: scale(0.8);
+    }
+    div.banner-placeholder {
+        flex-direction: column;
+    }
+    div.banner-img {
+        display: flex;
+        padding-left: 0;
+    }
+    div.banner-img img {
+        padding: 0;
+    }
+    .lang-block {
+        right: 60px;
+    }
+    a.menu {
+        display: none;
+    }
+    #menu-logo {
+        display: inline;
+    }
+    .menu-button {
+        right: 50%;
+        translate: 60%;
+    }
+    .a-menu-button {
+        right: auto;
+        left: 10px;
+        position: relative;
+    }
+    .a-menu-button a {
+        position: absolute;
+        right: 80px;
+    }
+    button.hamburger {
+        display: inline;  
+    }
+    div#mobile-menu.show, div#mobile-menu a.show {
+        display: block;
+    }
+    #faq-container {
+        grid-template-columns: 1fr;
+        width: 75%;
+    }
+}
+@media (max-width: 39.3rem) {
+   div.logo-track img {
+        transform: scale(0.7);
+        margin: 0;
+   }
+   div.counter-holder {
+        flex-direction: column;
+   }
+   footer img#logo {
+        display: none;
+   }
+
+}
+@media (max-width: 29.375rem) {
+    div.banner-img {
+        justify-content: center;
+    }
+    .form h2, .form p {
+        text-align: center;
+    }
+    footer {
+        flex-direction: column;
+        align-items: center;;
+    }
+    
+    .contact-holder {
+        flex-direction: column;
+    }
+    .tel, .email {
+        width: 100%;
+        display: grid;
+        grid-template-columns: 1fr 3fr;
+        align-items: center;
+        justify-content: space-around;
+    }
+    .contact-holder img {
+        display: inline;
+        min-width: 30px;
+        max-width: 30px;
+        height: 30px;
+    }
+    .tel p, .email p {
+        margin: 1rem auto;
+    }
+}
+
+@media (max-width: 23.43rem) {
+    div.logo-track img, div.logo-track {
+        transform: scale(0.5);    
+   }
+   div.content {
+       height: 20em;
+   }
+
+}
+
+@media (max-width: 1221px) {
+    div.video-holder {
+        grid-template-columns: repeat(2, 1fr);
+   }
+}
+
+@media (max-width: 600px) {
+    div.video-holder {
+        display: flex;
+        flex-direction: column;
+        gap: 10vh;
+        width: 85%;
+        margin: auto;
+        align-items: center;
+    }
+}
+
+@media screen and (max-width: 768px) {
+  .logo-roll::before {
+    background: transparent;
+  }
+}
+@media screen and (max-width: 385px) {
+    .lang-element {
+        transform: scale(0.8);
+        padding: 0;
+    }
+    .a-menu-button {
+        transform: scale(0.8);
+    }
+}
+@media screen and (max-width: 1186px) {
+    .banner-text.half {
+    width: 80%;
+}
+}
+@media screen and (max-width: 1190px) {
+    div.banner-placeholder {
+        flex-direction: column;
+    }
+    div.banner-img {
+        display: flex;
+        padding-left: 0;
+        align-self: center;
+    }
+    div.banner-img img {
+        padding: 0;
+    }
+     .banner-text.half {
+    width: 100%;
+}
+}
+@media (max-width: 600px) {
+    .cookie-banner {
+        bottom: 0;
+        left: 0;
+        right: 0;
+        border-radius: 16px 16px 0 0;
+        max-width: none;
+    }
+    .cookie-buttons {
+        flex-direction: column;
+    }   
+    .cookie-buttons button {
+        width: 100%;
+        text-align: center;
+    }
+    .form input, .form textarea {
+        font-size: 16px;
+    }
+}
