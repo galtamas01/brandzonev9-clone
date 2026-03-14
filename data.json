@@ -177,14 +177,9 @@
     "ro": {
       "partners": [
         {
-          "img": "/partner-logos/1773501058924_favicon.png",
-          "url": "brandzone.ro",
-          "alt": "Partner"
-        },
-        {
-          "url": "https://www.tiktok.com/@perfekt_uzletlanc",
-          "img": "partner-logos/perfekt.jpg",
-          "alt": "Perfekt logo"
+          "url": "https://www.tiktok.com/@minihometransylvania_ro",
+          "img": "partner-logos/minihome.webp",
+          "alt": "MiniHome logo"
         },
         {
           "url": "https://www.tiktok.com/@ludicus_games",
@@ -202,11 +197,6 @@
           "alt": "Kidlet logo"
         },
         {
-          "url": "https://www.tiktok.com/@diverzum.ro",
-          "img": "partner-logos/diverzum.jpg",
-          "alt": "Diverzum logo"
-        },
-        {
           "url": "https://www.tiktok.com/@_taperki_",
           "img": "partner-logos/taperki.jpg",
           "alt": "Taperki logo"
@@ -215,6 +205,11 @@
           "url": "https://www.tiktok.com/@ikamper.hu",
           "img": "partner-logos/ikamper.jpg",
           "alt": "IKamper logo"
+        },
+        {
+          "url": "https://www.tiktok.com/@diverzum.ro",
+          "img": "partner-logos/diverzum.jpg",
+          "alt": "Diverzum logo"
         },
         {
           "url": "https://www.tiktok.com/@herboxa",
@@ -237,14 +232,19 @@
           "alt": "SIK Group logo"
         },
         {
-          "url": "https://www.tiktok.com/@minihometransylvania_ro",
-          "img": "partner-logos/minihome.webp",
-          "alt": "MiniHome logo"
+          "url": "https://www.tiktok.com/@perfekt_uzletlanc",
+          "img": "partner-logos/perfekt.jpg",
+          "alt": "Perfekt logo"
         },
         {
           "url": "https://www.facebook.com/vitalityklinika",
           "img": "partner-logos/vitality.jpg",
           "alt": "Vitality Klinika logo"
+        },
+        {
+          "img": "/partner-logos/1773511525610_favicon.png",
+          "url": "https://www.brandzone.ro",
+          "alt": "Partner"
         },
         {
           "url": "https://www.tiktok.com/@visitparajd",
