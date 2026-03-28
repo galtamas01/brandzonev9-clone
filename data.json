@@ -254,19 +254,15 @@
       },
       "videos": [
         {
-          "bunnyVideoId": "6d2c7035-4e56-45c8-8c00-49ecae2eca0a",
-          "title": "3_TAPERKI.mp4",
+          "bunnyVideoId": "afee6619-6f42-4de2-8474-11769bd29c81",
+          "title": "Teszt",
           "logo": "./partner-logos/revolut.jpg"
         },
         {
-          "bunnyVideoId": "f39f2535-33f2-40df-b46a-22e9f56b652a",
-          "title": "DIVERZUM",
-          "logo": "./partner-logos/diverzum.jpg"
-        },
-        {
-          "bunnyVideoId": "73fba227-9b65-4d82-9ae1-2243e346ffb0",
-          "title": "SIK GROUP",
-          "logo": "./partner-logos/sik_group.jpg"
+          "bunnyVideoId": "97fc51db-ff96-42e7-8305-d870d054c3db",
+          "title": "30 éves.mp4",
+          "logo": "blob:https://brandzone-controlpanel.netlify.app/e89ebdfa-6cdc-4bf7-bbca-50bc5375d5d5",
+          "fileObject": {}
         },
         {
           "bunnyVideoId": "9c1bf81e-2477-44b2-bc7e-1e5ca53d1602",
@@ -282,6 +278,11 @@
           "bunnyVideoId": "6880c089-484e-427b-8b20-e21ee0cae7d5",
           "title": "MINI HOME",
           "logo": "./partner-logos/minihome.WEBP"
+        },
+        {
+          "bunnyVideoId": "73fba227-9b65-4d82-9ae1-2243e346ffb0",
+          "title": "SIK GROUP",
+          "logo": "./partner-logos/sik_group.jpg"
         },
         {
           "bunnyVideoId": "b56fd487-c58d-49a8-8626-11a4a3f5097d",
