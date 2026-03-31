@@ -9,14 +9,14 @@
       },
       {
         "id": "views",
-        "count": 70000000,
-        "display": "70&nbsp;000&nbsp;000",
+        "count": 100000000,
+        "display": "100&nbsp;000&nbsp;000",
         "icon": "counter/visible.png"
       },
       {
         "id": "followers",
-        "count": 150000,
-        "display": "150&nbsp;000",
+        "count": 200000,
+        "display": "200&nbsp;000",
         "icon": "counter/user.png"
       }
     ]
