@@ -9,8 +9,8 @@
       },
       {
         "id": "views",
-        "count": 100000000,
-        "display": "100&nbsp;000&nbsp;000",
+        "count": 100,
+        "display": "100",
         "icon": "counter/visible.png"
       },
       {
