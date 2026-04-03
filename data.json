@@ -3,14 +3,14 @@
     "counters": [
       {
         "id": "videos",
-        "count": 2000,
-        "display": "2000",
+        "count": 2500,
+        "display": "2500",
         "icon": "counter/camera.png"
       },
       {
         "id": "views",
-        "count": 10000000,
-        "display": "10&nbsp;000&nbsp;000",
+        "count": 2000000,
+        "display": "2&nbsp;000&nbsp;000",
         "icon": "counter/visible.png"
       },
       {
