@@ -254,11 +254,6 @@
       },
       "videos": [
         {
-          "bunnyVideoId": "d5586feb-d657-44ce-8d22-56848de3d20c",
-          "title": "TESZT VIDEO 2",
-          "logo": "partner-logos/1774702870563_data_analyst_roadmap.jpeg"
-        },
-        {
           "bunnyVideoId": "97fc51db-ff96-42e7-8305-d870d054c3db",
           "title": "30 éves.mp4",
           "logo": "blob:https://brandzone-controlpanel.netlify.app/e89ebdfa-6cdc-4bf7-bbca-50bc5375d5d5",
@@ -288,6 +283,11 @@
           "bunnyVideoId": "b56fd487-c58d-49a8-8626-11a4a3f5097d",
           "title": "KIDLET",
           "logo": "./partner-logos/kidlet.jpg"
+        },
+        {
+          "bunnyVideoId": "3f10cf6f-4c85-4d60-8d55-3d1a1c2a66a9",
+          "title": "TESZT VIDEO",
+          "logo": "partner-logos/1776158535634_balazspavaj_logo.png"
         },
         {
           "bunnyVideoId": "4369c974-ab52-4dd9-846b-ab0f1d877c7f",
